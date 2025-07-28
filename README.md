@@ -1,4 +1,4 @@
-# Projeto de Extração de Compromissos
+# Projeto de Extração de Compromissos de Autoridades do EAgendas da CGU
 
 Este repositório contém os comandos essenciais para construir e interagir com a imagem Docker do projeto de extração de compromissos. O objetivo é facilitar a execução do script Python em um ambiente containerizado, garantindo consistência e portabilidade.
 
