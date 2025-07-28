@@ -1,10 +1,10 @@
 # Projeto de Extração de Compromissos de Autoridades do EAgendas da CGU
 
-Este repositório contém os comandos essenciais para construir e interagir com a imagem Docker do projeto de extração de compromissos. O objetivo é facilitar a execução do script Python em um ambiente containerizado, garantindo consistência e portabilidade.
+Este repositório contém código python para a extração de compromissos do E-Agendas da CGU.
 
 ## Pré-requisitos Locais
 
-Para que o aplicativo funcione corretamente, é **essencial** que você tenha um arquivo `.env` configurado na **máquina local** (no mesmo diretório onde você executa os comandos Docker). Este arquivo deve conter as variáveis de ambiente necessárias para o script Python.
+Para que a solução funcione corretamente, é **essencial** que você tenha um arquivo `.env` configurado na **máquina local** (no mesmo diretório onde você executa os comandos Docker). Este arquivo deve conter as variáveis de ambiente necessárias para o script Python.
 
 ## Comandos Docker Essenciais
 
